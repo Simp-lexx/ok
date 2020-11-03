@@ -1,0 +1,14 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Text, csv, Excel
+*.txt
+*.csv
+*.xls*
+
+# VS Code Settings
+.vscode
