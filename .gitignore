@@ -12,3 +12,6 @@ ipython_config.py
 
 # VS Code Settings
 .vscode
+
+multilingual_embeddings.ru
+navec_hudlit_v1_12B_500K_300d_100q.tar
